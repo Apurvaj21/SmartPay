@@ -79,9 +79,5 @@ SmartPay/
 * Verify Order Status
 
 ---
-<img width="2136" height="1632" alt="Screenshot 2026-07-11 231221" src="https://github.com/user-attachments/assets/8fa7f161-c03e-4403-bc17-45fa2b21ed52" />
-<img width="2130" height="1524" alt="Screenshot 2026-07-11 231115" src="https://github.com/user-attachments/assets/69268ed8-6807-49b0-acf9-daf751933db2" />
-<img width="2148" height="1524" alt="Screenshot 2026-07-11 230956" src="https://github.com/user-attachments/assets/0f3fcc6d-7b9e-4812-9cab-c2ab3f043f01" />
-<img width="2085" height="1287" alt="Screenshot 2026-07-11 230652" src="https://github.com/user-attachments/assets/0c1ac9b8-b721-40e6-be03-ec5880443e9a" />
-<img width="2112" height="1716" alt="Screenshot 2026-07-11 230218" src="https://github.com/user-attachments/assets/79105a2a-1188-439e-a786-6e73b9350564" />
+
 
