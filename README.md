@@ -1,3 +1,4 @@
+
 # SmartPay – Microservices-Based Payment System
 
 ## What is this project?
@@ -258,3 +259,9 @@ If you are testing:
 * Then login
 * Use token in all APIs
 * Test both USER and ADMIN roles
+
+<img width="2151" height="1734" alt="Screenshot 2026-07-12 182205" src="https://github.com/user-attachments/assets/f79a45e6-5855-4223-b3a0-de048a172bbb" />
+<img width="2160" height="1611" alt="Screenshot 2026-07-12 182112" src="https://github.com/user-attachments/assets/0e7cff83-3a5d-4308-ab9a-2b0dc7fc91d9" />
+<img width="2127" height="1506" alt="Screenshot 2026-07-12 181954" src="https://github.com/user-attachments/assets/0fe8df92-7a97-42d3-8f88-af709132dae9" />
+<img width="2109" height="1395" alt="Screenshot 2026-07-12 181815" src="https://github.com/user-attachments/assets/f992ef09-6426-4b8e-bf66-96aba5fea8d9" />
+<img width="2163" height="1554" alt="Screenshot 2026-07-12 181735" src="https://github.com/user-attachments/assets/ce937d63-337b-49d0-a5ec-9e43d6307e9f" />
