@@ -57,8 +57,4 @@ public class OrderController {
         return "updated";
     }
     
-    @GetMapping("/test")
-    public String test() {
-        return "Order Service Working";
-    }
 }
